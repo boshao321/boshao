@@ -33,13 +33,28 @@ menu:
     - name: "Blog"
       url: "/blog/"
 
-
 params:
-  description: "Welcome to Bo's planet."
-  footer: "&copy; [Bo Shao](https://boshao.netlify.app) {Year} | [LinkedIn](https://www.linkedin.com/in/boshao321/) | [ResearchGate](https://www.researchgate.net/profile/Bo-Shao-15) | [ORCID](https://orcid.org/0000-0002-3360-8886)"
-  highlightjsLang: ["latex"]
+  description: "Welcome to Bo's planet!"
+  footer: "&copy; [Bo Shao](https://boshao.netlify.app) 2024 | [LinkedIn](https://www.linkedin.com/in/boshao321/) | [ResearchGate](https://www.researchgate.net/profile/Bo-Shao-15) | [ORCID](https://orcid.org/0000-0002-3360-8886)"
+  highlightjsCDN: "//cdn.bootcss.com"
+  highlightjsLang: ["r", "yaml", "tex", "latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
+  disqusURL: "https://boshao.netlify.app"
+  customJS:
+    - "js/fix-toc.js"
+    - "js/center-img.js"
+    - "js/right-quote.js"
+    - "js/no-highlight.js"
+    - "js/fix-footnote.js"
+    - "js/math-code.js"
+    - "js/external-link.js"
+    - "js/alt-title.js"
+    - "js/header-link.js"
+
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
+    fractions: false
 
 markup:
   highlight:
