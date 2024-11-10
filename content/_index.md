@@ -2,8 +2,6 @@
 title: Home
 ---
 
-<div style="font-family: 'Georgia', sans-serif; text-align: justify;">
-
 ## Welcome to Bo's Homepage!
 
 <br>
