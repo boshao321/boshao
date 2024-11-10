@@ -33,9 +33,10 @@ menu:
     - name: "Blog"
       url: "/blog/"
 
+
 params:
-  description: "A Hugo theme ported from the static site generator Ivy."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
+  description: "Welcome to Bo's planet."
+  footer: "&copy; [Bo Shao](https://boshao.netlify.app) {Year} | [LinkedIn](https://www.linkedin.com/in/boshao321/) | [ResearchGate](https://www.researchgate.net/profile/Bo-Shao-15) | [ORCID](https://orcid.org/0000-0002-3360-8886)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
