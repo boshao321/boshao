@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="https://github.com/boshao321/boshao/photo/profile.jpg" style="max-width:15%;min-width:40px;float:right;" alt="Bo's photo" />]
+<div style="font-family: 'Georgia', sans-serif; text-align: justify;">
 
 Welcome to Bo's Homepage!<br>
 
@@ -11,3 +11,5 @@ My name is Bo Shao, but most people just call me Bo. I earned my Bachelor’s de
 I love outdoor hiking because being close to nature brings me a sense of inner peace. I also enjoy cooking, and there’s nothing quite like the satisfaction of tasting my own culinary creations. One of my favorite quotes is: *“Put your head down and fight, fight, fight! Never, ever, ever give up! Things will work out just fine.”*
 
 You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/).
+
+</div>
