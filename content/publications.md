@@ -18,7 +18,7 @@ title: Publications
 ## Publications (Chinese)
 
 - 叶翀, 郑艳红 & **邵博**. (2024). [经济复杂性与物流业碳减排关系研究](https://pdf/经济复杂性与物流业碳减排关系研究_叶翀.pdf). *价格理论与实践*. (05), 140-145.  
-  <br>Chong Ye, Yanhong Zheng & **Bo Shao**. (2024). [Study on the Relationship between Economic Complexity and Carbon Emission Reduction in the Logistics Industry](https://pdf/经济复杂性与物流业碳减排关系研究_叶翀.pdf). *Price: Theory & Practice*. (05), 140-145.
+  <br>Chong Ye, Yanhong Zheng & **Bo Shao**. (2024). [Study on the Relationship between Economic Complexity and Carbon Emission Reduction in the Logistics Industry](pdf/经济复杂性与物流业碳减排关系研究_叶翀.pdf). *Price: Theory & Practice*. (05), 140-145.
 
 - 李鑫, 胡永仕, **邵博** & 苏晓丽. (2024). [基于深度学习的快时尚服装产品销售预测模型构建](https://pdf/基于深度学习的快时尚服装产品销售预测模型构建_李鑫.pdf). *毛纺科技*. (04), 80-87.  
   <br>Xin Li, Yongshi Hu, **Bo Shao** & Xiaoli Su. (2024). [Construction of Fast Fashion Clothing Sales Prediction Model Based on Deep Learning](https://pdf/基于深度学习的快时尚服装产品销售预测模型构建_李鑫.pdf). *Wool Textile Journal*. (04), 80-87.
