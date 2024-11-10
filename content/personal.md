@@ -9,7 +9,7 @@ title: Hobbies
 ## Hiking & Running
 
 <div class="third">
-<img src="/images/hiking1.JPG">
+<img src="/IMG_0349.JPG">
 <img src="/images/running1.JPG">
 <img src="/images/running2.JPG">
 </div>
