@@ -1,22 +1,9 @@
 .hljs {
   padding: 1em;
 }
-.author-profile {
-    text-align: center;
-}
 
-.author-profile img {
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
-    margin-bottom: 10px;
-}
-
-.author-profile h2 {
-    margin-top: 0;
-    font-size: 1.5em;
-}
-
-.author-profile p {
-    margin: 5px 0;
+body {
+    font-family: Georgia, serif;
+    line-height: 2;
+    text-align: justify;
 }

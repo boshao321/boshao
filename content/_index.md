@@ -4,7 +4,9 @@ title: Home
 
 <div style="font-family: 'Georgia', sans-serif; text-align: justify;">
 
-## Welcome to Bo's Homepage!<br>
+## Welcome to Bo's Homepage!
+
+<br>
 
 My name is Bo Shao, though most people simply call me Bo. I hold a Bachelor’s degree in Logistics Engineering from [Fuzhou University](https://www.fzu.edu.cn/) and am currently pursuing a Master’s degree in [Industrial & Systems Engineering](https://engineering.wisc.edu/departments/industrial-systems-engineering/) at the [University of Wisconsin - Madison](https://www.wisc.edu/).
 
