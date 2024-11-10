@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: Hugo Ivy
+title: Bo Shao
 theme: "hugo-ivy"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
@@ -18,14 +18,20 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 2
-    - name: "Categories"
-      url: "/categories/"
+    - name: "Research"
+      url: "/research/"
       weight: 3
-    - name: "Tags"
-      url: "/tags/"
+    - name: "Publications"
+      url: "/publications/"
       weight: 4
-    - name: "Subscribe"
-      url: "/index.xml"
+    - name: "Honors"
+      url: "/honors/"
+      weight: 5
+    - name: "Personal"
+      url: "/personal/"
+      weight: 6
+    - name: "Blog"
+      url: "/blog/"
 
 params:
   description: "A Hugo theme ported from the static site generator Ivy."
