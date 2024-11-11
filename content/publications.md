@@ -58,5 +58,5 @@ title: Publications
 - **邵博**, 冯昊 & 叶翀. (2020). [基于AHP-DEA的第三方物流企业绩效评价管理](https://boshao.netlify.app/pdf/第三方物流企业绩效评价管理_邵博.pdf). *物流科技*. 43(01), 35-40.  
   <br>**Bo Shao**, Hao Feng & Chong Ye. (2020). [Research on Performance Evaluation of Third-Party Logistics Enterprises Based on AHP-DEA](https://boshao.netlify.app/pdf/第三方物流企业绩效评价管理_邵博.pdf). *Logistics Sci-Tech*. 43(01), 35-40.
 
-- **邵博** & 叶翀. (2019). [基于AHP-模糊综合评价的多式联运风险管理研究](https://boshao.netlify.app/pdf/多式联运风险管理研究_邵博.pdf). *对外经贸*. (11), 101-105.  
-  <br>**Bo Shao** & Chong Ye. (2019). [Research on Multimodal Transportation Risk Management Based on AHP-Fuzzy Comprehensive Evaluation](https://boshao.netlify.app/pdf/多式联运风险管理研究_邵博.pdf). *Foreign Economic Relations & Trade*. (11), 101-105.
+- **邵博** & 叶翀. (2019). [基于AHP-模糊综合评价的多式联运风险管理研究](https://boshao.netlify.app/pdf/1.pdf). *对外经贸*. (11), 101-105.  
+  <br>**Bo Shao** & Chong Ye. (2019). [Research on Multimodal Transportation Risk Management Based on AHP-Fuzzy Comprehensive Evaluation](https://boshao.netlify.app/pdf/1.pdf). *Foreign Economic Relations & Trade*. (11), 101-105.
