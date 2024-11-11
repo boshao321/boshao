@@ -25,8 +25,8 @@ title: Publications
 - 叶翀, 郑艳红 & **邵博**. (2023). [碳交易试点政策对绿色物流效率的影响研究](https://boshao.netlify.app/pdf/碳交易试点政策对绿色物流效率的影响研究_叶翀.pdf). *大连海事大学学报*. (05), 49-62.  
   <br>Chong Ye, Yanhong Zheng & **Bo Shao**. (2023). [The Impact of Carbon Emissions Trading Pilot Policy on Green Logistics Efficiency](https://boshao.netlify.app/pdf/碳交易试点政策对绿色物流效率的影响研究_叶翀.pdf). *Journal of Dalian Maritime University*. (05), 49-62.
 
-- 程俊恒, 艾佳慧 & **邵博**. (2023). [金融改革试验区对经济创新发展的影响研究——基于中国292个城市面板数据的实证分析](https://boshao.netlify.app/pdf/金融改革试验区对经济创新发...2个城市面板数据的实证分析_程俊恒). *价格理论与实践*. (06), 179-183.  
-  <br>Junheng Cheng, Jiahui Ai & **Bo Shao**. (2023). [The Effect of Financial Reform on Economic and Innovation Development: Empirical Analysis Based on Panel Data of 292 Cities in China](https://boshao.netlify.app/pdf/金融改革试验区对经济创新发...2个城市面板数据的实证分析_程俊恒). *Price: Theory & Practice*. (06), 179-183.
+- 程俊恒, 艾佳慧 & **邵博**. (2023). [金融改革试验区对经济创新发展的影响研究——基于中国292个城市面板数据的实证分析](https://boshao.netlify.app/pdf/金融改革试验区对经济创新发展的影响研究_程俊恒.pdf). *价格理论与实践*. (06), 179-183.  
+  <br>Junheng Cheng, Jiahui Ai & **Bo Shao**. (2023). [The Effect of Financial Reform on Economic and Innovation Development: Empirical Analysis Based on Panel Data of 292 Cities in China](https://boshao.netlify.app/pdf/金融改革试验区对经济创新发展的影响研究_程俊恒.pdf). *Price: Theory & Practice*. (06), 179-183.
 
 - 叶翀 & **邵博**. (2022). [高速铁路对中国省际知识溢出的影响——基于空间计量模型的实证分析](https://boshao.netlify.app/pdf/高速铁路对中国省际知识溢出的影响_叶翀.pdf). *技术经济*. (06), 31-43.  
   <br>Chong Ye & **Bo Shao**. (2022). [The Influence of High-speed Railway on Inter-provincial Knowledge Spillover in China: Empirical Analysis Based on Spatial Econometric Model](https://boshao.netlify.app/pdf/高速铁路对中国省际知识溢出的影响_叶翀.pdf). *Journal of Technology Economics*. (06), 31-43.
