@@ -15,3 +15,6 @@ This day is filled with a mix of emotions – a bittersweet moment of saying goo
 As I boarded the plane, I realized that the path forward is full of unknowns. There will likely be challenges, but I believe each experience will be an essential part of my growth. With determination and dreams, I am ready to take this step.
 
 Thank you to my family and friends for all the encouragement and support – it means the world to me. A new chapter begins, and I look forward to sharing the journey with you all!
+
+![IMG_8320](/img/IMG_8320.jpeg)
+![IMG_8440](/img/IMG_8440.JPG)
