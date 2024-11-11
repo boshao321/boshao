@@ -71,12 +71,10 @@
     <loc>//localhost:3543/post/2015/07/23/lorem-ipsum/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/hobbies/</loc>
-  </url><url>
     <loc>//localhost:3543/honors/</loc>
   </url><url>
-    <loc>//localhost:3543/publications/</loc>
+    <loc>//localhost:3543/personal/</loc>
   </url><url>
-    <loc>//localhost:3543/research/</loc>
+    <loc>//localhost:3543/publications/</loc>
   </url>
 </urlset>

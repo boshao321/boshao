@@ -10,7 +10,7 @@ I was born in <a href="https://en.wikipedia.org/wiki/Wuwei,_Gansu">Wuwei</a>, a 
 
 ## Curriculum Vitae
 
-- [Download my Curriculum Vitae](https://raw.githubusercontent.com/boshao321/boshao/main/pdf/CV_Bo_Shao.pdf)
+- [Download my Curriculum Vitae](https://boshao.netlify.app/pdf/CV_Bo_Shao.pdf)
 
 ## Research Interests
 
@@ -24,7 +24,7 @@ I was born in <a href="https://en.wikipedia.org/wiki/Wuwei,_Gansu">Wuwei</a>, a 
 ## Contact Information
 
 - Email: [bo.shao@wisc.edu](mailto:bo.shao@wisc.edu); [boshao227@gmail.com](mailto:boshao227@gmail.com)
-- Homepage: [https://boshao.netlify.app](https://boshao321.github.io)
+- Homepage: [www.boshao.com](https://boshao.netlify.app)
 
 ## Education Background
 

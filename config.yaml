@@ -27,8 +27,6 @@ menu:
     - name: "Personal"
       url: "/personal/"
       weight: 5
-    - name: "Blog"
-      url: "/blog/"
 
 params:
   description: "Put head down and fight! Never, ever, ever give up!"

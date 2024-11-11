@@ -1,10 +1,9 @@
 ---
 layout: page
 permalink: /personal/index.html
-title: Hobbies
+title: Personal
 ---
 
-# Personal
 
 ## Hiking & Running
 
