@@ -1,6 +1,4 @@
 ---
-author: Bo Shao
-date: "2024-11-01"
 title: About
 ---
 

@@ -9,11 +9,11 @@ title: Personal
 
 <br>Hiking and running are two activities that refresh my mind and energize my body. Hiking allows me to connect with nature, bringing me peace and clarity, while running challenges me to push my limits and build resilience. Each trail and track feels like a journey of self-discovery and accomplishment.
 
-![IMG_0349](/img/IMG_0349.JPG)
+![IMG_9452](/img/IMG_9452.JPG)
 ![IMG_9004](/img/IMG_9004.JPG)
 ![IMG_9244](/img/IMG_9244.jpeg)
-![IMG_9452](/img/IMG_9452.JPG)
 ![IMG_9557](/img/IMG_9557.jpeg)
+![IMG_0349](/img/IMG_0349.JPG)
 
 ## Cooking
 

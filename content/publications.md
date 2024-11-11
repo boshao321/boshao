@@ -1,5 +1,4 @@
 ---
-author: Last updated in Nov. 2024
 title: Publications
 ---
 

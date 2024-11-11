@@ -2,79 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:3543/about/</loc>
+    <loc>//localhost:3807/categories/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3807/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3807/note/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3807/categories/recipe/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3807/note/2024/11/09/wonton/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3807/about/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/</loc>
+    <loc>//localhost:3807/note/2024/11/01/black-pepper-beef/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>//localhost:3807/note/2024/10/25/tomato-braised-beef-brisket/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/post/2020/12/01/hello-r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>//localhost:3807/note/2024/10/10/mala-xiang-guo/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>//localhost:3807/tags/conference/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/post/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>//localhost:3807/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>//localhost:3807/categories/journal/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>//localhost:3807/post/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>//localhost:3807/tags/public-speaking/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>//localhost:3807/tags/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/note/2017/06/14/another-note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <loc>//localhost:3807/post/2023/08/07/embarking-on-a-new-journey/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/categories/example/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <loc>//localhost:3807/tags/new-journey/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <loc>//localhost:3807/tags/travel/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:3543/tags/tutorial/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <loc>//localhost:3807/honors/</loc>
   </url><url>
-    <loc>//localhost:3543/note/2017/06/13/a-quick-note/</loc>
-    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+    <loc>//localhost:3807/personal/</loc>
   </url><url>
-    <loc>//localhost:3543/post/2016/02/14/a-plain-markdown-post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3543/tags/blogdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3543/categories/hugo/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3543/tags/markdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3543/tags/mathjax/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3543/tags/pandoc/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3543/tags/rstudio/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3543/post/2015/07/23/lorem-ipsum/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:3543/honors/</loc>
-  </url><url>
-    <loc>//localhost:3543/personal/</loc>
-  </url><url>
-    <loc>//localhost:3543/publications/</loc>
+    <loc>//localhost:3807/publications/</loc>
   </url>
 </urlset>
