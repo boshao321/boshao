@@ -1,12 +1,12 @@
 ---
 categories:
-- Research
+- Journal
 date: "2024-11-17"
 tags:
 - DeepAR
 - Time Series
 - Forecasting
-title: Exploring DeepAR: Advancing Forecasting with Attention Mechanisms
+title: Exploring DeepAR-Advancing Forecasting with Attention Mechanisms
 ---
 
 **November 17, 2024** – Today, I want to share some insights into one of the most exciting areas of my recent research: the DeepAR model with attention mechanisms. DeepAR is a state-of-the-art probabilistic forecasting model that has transformed how we approach time series forecasting problems, especially in high-dimensional and dynamic environments.

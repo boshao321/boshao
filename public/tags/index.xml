@@ -2,38 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bo Shao</title>
-    <link>//localhost:5999/tags/</link>
+    <link>//localhost:3843/tags/</link>
     <description>Recent content in Tags on Bo Shao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:5999/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:3843/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepAR</title>
+      <link>//localhost:3843/tags/deepar/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:3843/tags/deepar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forecasting</title>
+      <link>//localhost:3843/tags/forecasting/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:3843/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time Series</title>
+      <link>//localhost:3843/tags/time-series/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:3843/tags/time-series/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Conference</title>
-      <link>//localhost:5999/tags/conference/</link>
+      <link>//localhost:3843/tags/conference/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:5999/tags/conference/</guid>
+      <guid>//localhost:3843/tags/conference/</guid>
       <description></description>
     </item>
     <item>
       <title>Public Speaking</title>
-      <link>//localhost:5999/tags/public-speaking/</link>
+      <link>//localhost:3843/tags/public-speaking/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:5999/tags/public-speaking/</guid>
+      <guid>//localhost:3843/tags/public-speaking/</guid>
       <description></description>
     </item>
     <item>
       <title>New Journey</title>
-      <link>//localhost:5999/tags/new-journey/</link>
+      <link>//localhost:3843/tags/new-journey/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:5999/tags/new-journey/</guid>
+      <guid>//localhost:3843/tags/new-journey/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>//localhost:5999/tags/travel/</link>
+      <link>//localhost:3843/tags/travel/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:5999/tags/travel/</guid>
+      <guid>//localhost:3843/tags/travel/</guid>
       <description></description>
     </item>
   </channel>

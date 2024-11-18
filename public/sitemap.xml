@@ -2,63 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:5999/categories/</loc>
+    <loc>//localhost:3843/categories/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3843/tags/deepar/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3843/post/2024/11/17/exploring-deepar/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3843/tags/forecasting/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3843/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3843/categories/journal/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3843/post/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3843/tags/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3843/tags/time-series/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:3843/note/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/</loc>
+    <loc>//localhost:3843/categories/recipe/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/note/</loc>
+    <loc>//localhost:3843/note/2024/11/09/wonton/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/categories/recipe/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:5999/note/2024/11/09/wonton/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:5999/note/2024/11/01/black-pepper-beef/</loc>
+    <loc>//localhost:3843/note/2024/11/01/black-pepper-beef/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/note/2024/10/25/tomato-braised-beef-brisket/</loc>
+    <loc>//localhost:3843/note/2024/10/25/tomato-braised-beef-brisket/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/note/2024/10/10/mala-xiang-guo/</loc>
+    <loc>//localhost:3843/note/2024/10/10/mala-xiang-guo/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/tags/conference/</loc>
+    <loc>//localhost:3843/tags/conference/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</loc>
+    <loc>//localhost:3843/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/categories/journal/</loc>
+    <loc>//localhost:3843/tags/public-speaking/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/post/</loc>
-    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:5999/tags/public-speaking/</loc>
-    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:5999/tags/</loc>
-    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:5999/post/2023/08/07/embarking-on-a-new-journey/</loc>
+    <loc>//localhost:3843/post/2023/08/07/embarking-on-a-new-journey/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/tags/new-journey/</loc>
+    <loc>//localhost:3843/tags/new-journey/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/tags/travel/</loc>
+    <loc>//localhost:3843/tags/travel/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:5999/about/</loc>
+    <loc>//localhost:3843/about/</loc>
   </url><url>
-    <loc>//localhost:5999/honors/</loc>
+    <loc>//localhost:3843/honors/</loc>
   </url><url>
-    <loc>//localhost:5999/personal/</loc>
+    <loc>//localhost:3843/personal/</loc>
   </url><url>
-    <loc>//localhost:5999/publications/</loc>
+    <loc>//localhost:3843/publications/</loc>
   </url>
 </urlset>
