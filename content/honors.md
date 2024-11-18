@@ -21,6 +21,6 @@ title: Honors
 
 ## Certificates
 - Lean Six Sigma Green Belt Certification<br>
-- Chinese Logistics Management Certificate of Proficiency<br>
+- Chinese Certified Professional Logistician (CPL) certification<br>
 
 <br>

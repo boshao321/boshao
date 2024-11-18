@@ -2,81 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Bo Shao</title>
-    <link>//localhost:3807/</link>
+    <link>//localhost:5999/</link>
     <description>Recent content in Home on Bo Shao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:3807/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:5999/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wonton</title>
-      <link>//localhost:3807/note/2024/11/09/wonton/</link>
+      <link>//localhost:5999/note/2024/11/09/wonton/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/note/2024/11/09/wonton/</guid>
+      <guid>//localhost:5999/note/2024/11/09/wonton/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Wontons (馄饨)&lt;/strong&gt; are a beloved Chinese dumpling, typically filled with seasoned pork or shrimp, wrapped in thin dough, and served in a light broth or with sauce. Here’s a simple recipe to make these comforting dumplings at home.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wonton Filling&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g ground pork (or ground chicken/shrimp)&lt;/li&gt;&#xA;&lt;li&gt;1 green onion, finely chopped&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;&#xA;&lt;li&gt;1/2 tablespoon oyster sauce&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon sesame oil&lt;/li&gt;&#xA;&lt;li&gt;1/4 teaspoon white pepper&lt;/li&gt;&#xA;&lt;li&gt;1 teaspoon grated ginger&lt;/li&gt;&#xA;&lt;li&gt;1 teaspoon cornstarch&lt;/li&gt;&#xA;&lt;li&gt;Salt to taste&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wonton Wrappers&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Black Pepper Beef Stir-Fry</title>
-      <link>//localhost:3807/note/2024/11/01/black-pepper-beef/</link>
+      <link>//localhost:5999/note/2024/11/01/black-pepper-beef/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/note/2024/11/01/black-pepper-beef/</guid>
+      <guid>//localhost:5999/note/2024/11/01/black-pepper-beef/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Black Pepper Beef Stir-Fry (黑椒牛柳)&lt;/strong&gt; is a classic Chinese stir-fry dish known for its bold black pepper flavor and tender beef. It’s quick to make, making it a perfect weeknight meal. Here’s how to prepare it at home.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Main Ingredients&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;300g beef sirloin or tenderloin, cut into thin strips&lt;/li&gt;&#xA;&lt;li&gt;1 bell pepper (red or green), sliced&lt;/li&gt;&#xA;&lt;li&gt;1 small onion, sliced&lt;/li&gt;&#xA;&lt;li&gt;1/2 carrot, julienned (optional)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Marinade&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon oyster sauce&lt;/li&gt;&#xA;&lt;li&gt;1 teaspoon cornstarch&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon sugar&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon cooking wine&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon black pepper (freshly ground for best flavor)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stir-Fry Sauce&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon oyster sauce&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon sugar&lt;/li&gt;&#xA;&lt;li&gt;1 teaspoon black pepper (adjust to taste)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Aromatics&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 cloves garlic, minced&lt;/li&gt;&#xA;&lt;li&gt;1 small piece ginger, minced&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Marinate the Beef&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tomato Braised Beef Brisket</title>
-      <link>//localhost:3807/note/2024/10/25/tomato-braised-beef-brisket/</link>
+      <link>//localhost:5999/note/2024/10/25/tomato-braised-beef-brisket/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/note/2024/10/25/tomato-braised-beef-brisket/</guid>
+      <guid>//localhost:5999/note/2024/10/25/tomato-braised-beef-brisket/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Tomato Braised Beef Brisket (番茄牛腩)&lt;/strong&gt; is a classic Chinese comfort dish, featuring tender beef brisket slowly cooked with tomatoes for a rich, savory flavor with a hint of sweetness. Here’s a simple recipe to make this delicious dish at home.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Main Ingredients&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;500g beef brisket, cut into chunks&lt;/li&gt;&#xA;&lt;li&gt;3 large tomatoes, diced&lt;/li&gt;&#xA;&lt;li&gt;1 potato, peeled and cut into chunks (optional)&lt;/li&gt;&#xA;&lt;li&gt;1 carrot, sliced&lt;/li&gt;&#xA;&lt;li&gt;1 onion, diced&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seasonings&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 tablespoon tomato paste&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon oyster sauce&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon cooking wine&lt;/li&gt;&#xA;&lt;li&gt;Salt and pepper to taste&lt;/li&gt;&#xA;&lt;li&gt;2-3 slices ginger&lt;/li&gt;&#xA;&lt;li&gt;2-3 cloves garlic, crushed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Aromatics&lt;/strong&gt;: chopped green onions for garnish&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Blanch the Beef&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mala Xiang Guo</title>
-      <link>//localhost:3807/note/2024/10/10/mala-xiang-guo/</link>
+      <link>//localhost:5999/note/2024/10/10/mala-xiang-guo/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/note/2024/10/10/mala-xiang-guo/</guid>
+      <guid>//localhost:5999/note/2024/10/10/mala-xiang-guo/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Mala Xiang Guo (麻辣香锅)&lt;/strong&gt; is a popular Chinese dish known for its bold flavors, combining a variety of ingredients with spicy, numbing, and aromatic spices. Here’s a quick recipe for this flavorful dish, perfect for those who love a little heat!&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Protein&lt;/strong&gt;: 200g sliced beef, chicken, shrimp, or tofu (choose your favorite)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vegetables&lt;/strong&gt;: 1 cup napa cabbage, 1 cup spinach, 1/2 cup mushrooms, 1/2 cup broccoli, 1/2 cup lotus root slices (or other vegetables of choice)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seasonings&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2-3 tablespoons of Sichuan peppercorn oil or hot pot base&lt;/li&gt;&#xA;&lt;li&gt;2 tablespoons doubanjiang (spicy bean paste)&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon minced garlic&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon minced ginger&lt;/li&gt;&#xA;&lt;li&gt;2-3 dried red chili peppers (adjust for desired spice level)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Aromatics&lt;/strong&gt;: green onions and cilantro for garnish&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Optional toppings&lt;/strong&gt;: peanuts, sesame seeds, or fried garlic&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Prepare the Ingredients&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>First International Conference Presentation at OMEA/MBAA 2024</title>
-      <link>//localhost:3807/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</link>
+      <link>//localhost:5999/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</guid>
+      <guid>//localhost:5999/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;April 10, 2024&lt;/strong&gt; – Today, I had the incredible experience of presenting at the OMEA/MBAA 2024 conference in Chicago. This was my first time speaking at an international conference, and I was really nervous. Despite the nerves, I learned a lot and gained valuable insights from this opportunity.&lt;/p&gt;&#xA;&lt;p&gt;Presenting in front of an international audience was challenging but rewarding. I realize there’s still much room for improvement, and I need to keep pushing myself to grow and gain confidence in these settings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First International Conference Presentation at OMEA/MBAA 2024</title>
+      <link>//localhost:5999/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:5999/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</guid>
       <description>&lt;p&gt;&lt;strong&gt;April 10, 2024&lt;/strong&gt; – Today, I had the incredible experience of presenting at the OMEA/MBAA 2024 conference in Chicago. This was my first time speaking at an international conference, and I was really nervous. Despite the nerves, I learned a lot and gained valuable insights from this opportunity.&lt;/p&gt;&#xA;&lt;p&gt;Presenting in front of an international audience was challenging but rewarding. I realize there’s still much room for improvement, and I need to keep pushing myself to grow and gain confidence in these settings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Embarking on a New Journey</title>
-      <link>//localhost:3807/post/2023/08/07/embarking-on-a-new-journey/</link>
+      <link>//localhost:5999/post/2023/08/07/embarking-on-a-new-journey/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/post/2023/08/07/embarking-on-a-new-journey/</guid>
+      <guid>//localhost:5999/post/2023/08/07/embarking-on-a-new-journey/</guid>
       <description>&lt;p&gt;&lt;strong&gt;August 7, 2023&lt;/strong&gt; – Today, I set off for the United States, bidding farewell to my parents, friends, and everything familiar to embark on a new journey.&lt;/p&gt;&#xA;&lt;p&gt;This day is filled with a mix of emotions – a bittersweet moment of saying goodbye while feeling excited for what lies ahead. As I looked back at the faces of my loved ones, I felt both the warmth of their support and the weight of leaving them behind. Heading to the U.S. is not just a trip; it’s a step toward growth, exploration, and new experiences.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:3807/about/</link>
+      <link>//localhost:5999/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/about/</guid>
+      <guid>//localhost:5999/about/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;&#xA;&lt;p&gt;I was born in &lt;a href=&#34;https://en.wikipedia.org/wiki/Wuwei,_Gansu&#34;&gt;Wuwei&lt;/a&gt;, a small city in Gansu Province, Northwestern China, known for its historical significance as an important city on the &lt;a href=&#34;https://en.wikipedia.org/wiki/Silk_Road&#34;&gt;Silk Road&lt;/a&gt;. I earned my bachelor’s degree in Logistics Engineering from &lt;a href=&#34;https://www.fzu.edu.cn/&#34;&gt;Fuzhou University&lt;/a&gt;, where I met teachers and friends who had a significant impact on my life. Currently, I am pursuing my Master’s degree in &lt;a href=&#34;https://engineering.wisc.edu/departments/industrial-systems-engineering&#34;&gt;Industrial &amp;amp; Systems Engineering&lt;/a&gt; at the &lt;a href=&#34;https://www.wisc.edu&#34;&gt;University of Wisconsin-Madison&lt;/a&gt;, located in &lt;a href=&#34;https://www.visitmadison.com/&#34;&gt;Madison&lt;/a&gt;, a charming and picturesque town in the heart of the American Midwest. I enjoy trying new things and constantly seek opportunities to challenge myself and grow. Growing up as the only child in my family, I learned to be independent and make my own decisions. I love outdoor hiking because being close to nature brings me a sense of inner peace. I also enjoy cooking, and there’s nothing quite like the satisfaction of tasting my own culinary creations. Here, I plan to share my random thoughts, research experiences, and reading notes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Honors</title>
-      <link>//localhost:3807/honors/</link>
+      <link>//localhost:5999/honors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/honors/</guid>
-      <description>&lt;h2 id=&#34;scholarships&#34;&gt;Scholarships&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jun. 2021: Summa Cum Laude Graduate of Fuzhou University (Top 5%)&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;May. 2021: Outstanding President Award, Logistics Association, Fuzhou University&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Apr. 2021: Sci-Tech Innovation Individual Scholarship (Top 3%)&lt;br&gt;&lt;em&gt;One of the highest undergraduate awards at FZU&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Oct. 2020: First Prize Scholarship in Major (Top 5%)&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Apr. 2020: SUNSHINE Individual Scholarship (Top 3%)&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Oct. 2019: Third Prize Scholarship in Major (Top 15%)&lt;br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;competitions&#34;&gt;Competitions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apr. 2019: Second Prize in the National Contest On Logistics Design (NCOLD)&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Jan. 2019: Second Prize in the 2018 Global Management Challenge (GMC), China Competition&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Nov. 2018: Third Prize in the 2018 National College Students Smart Supply Chain Challenge&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Oct. 2018: First Prize in the 2018 China University Business Elite Challenge&lt;br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;certificates&#34;&gt;Certificates&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lean Six Sigma Green Belt Certification&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Chinese Logistics Management Certificate of Proficiency&lt;br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;br&gt;</description>
+      <guid>//localhost:5999/honors/</guid>
+      <description>&lt;h2 id=&#34;scholarships&#34;&gt;Scholarships&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jun. 2021: Summa Cum Laude Graduate of Fuzhou University (Top 5%)&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;May. 2021: Outstanding President Award, Logistics Association, Fuzhou University&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Apr. 2021: Sci-Tech Innovation Individual Scholarship (Top 3%)&lt;br&gt;&lt;em&gt;One of the highest undergraduate awards at FZU&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Oct. 2020: First Prize Scholarship in Major (Top 5%)&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Apr. 2020: SUNSHINE Individual Scholarship (Top 3%)&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Oct. 2019: Third Prize Scholarship in Major (Top 15%)&lt;br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;competitions&#34;&gt;Competitions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apr. 2019: Second Prize in the National Contest On Logistics Design (NCOLD)&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Jan. 2019: Second Prize in the 2018 Global Management Challenge (GMC), China Competition&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Nov. 2018: Third Prize in the 2018 National College Students Smart Supply Chain Challenge&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Oct. 2018: First Prize in the 2018 China University Business Elite Challenge&lt;br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;certificates&#34;&gt;Certificates&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lean Six Sigma Green Belt Certification&lt;br&gt;&lt;/li&gt;&#xA;&lt;li&gt;Chinese Certified Professional Logistician (CPL) certification&lt;br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;br&gt;</description>
     </item>
     <item>
       <title>Personal</title>
-      <link>//localhost:3807/personal/</link>
+      <link>//localhost:5999/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/personal/</guid>
-      <description>&lt;h2 id=&#34;hiking--running&#34;&gt;Hiking &amp;amp; Running&lt;/h2&gt;&#xA;&lt;p&gt;&lt;br&gt;Hiking and running are two activities that refresh my mind and energize my body. Hiking allows me to connect with nature, bringing me peace and clarity, while running challenges me to push my limits and build resilience. Each trail and track feels like a journey of self-discovery and accomplishment.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:3807/img/IMG_9452.JPG&#34; alt=&#34;IMG_9452&#34;&gt;&#xA;&lt;img src=&#34;//localhost:3807/img/IMG_9004.JPG&#34; alt=&#34;IMG_9004&#34;&gt;&#xA;&lt;img src=&#34;//localhost:3807/img/IMG_9244.jpeg&#34; alt=&#34;IMG_9244&#34;&gt;&#xA;&lt;img src=&#34;//localhost:3807/img/IMG_9557.jpeg&#34; alt=&#34;IMG_9557&#34;&gt;&#xA;&lt;img src=&#34;//localhost:3807/img/IMG_0349.JPG&#34; alt=&#34;IMG_0349&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;cooking&#34;&gt;Cooking&lt;/h2&gt;&#xA;&lt;p&gt;&lt;br&gt;Cooking and baking are my creative outlets, allowing me to experiment and create dishes that bring joy to those around me. There’s something incredibly fulfilling about crafting a meal from scratch and sharing it with friends and family. My goal is to perfect my skills and master both the art and science of the kitchen, one recipe at a time.&lt;/p&gt;</description>
+      <guid>//localhost:5999/personal/</guid>
+      <description>&lt;h2 id=&#34;hiking--running&#34;&gt;Hiking &amp;amp; Running&lt;/h2&gt;&#xA;&lt;p&gt;&lt;br&gt;Hiking and running are two activities that refresh my mind and energize my body. Hiking allows me to connect with nature, bringing me peace and clarity, while running challenges me to push my limits and build resilience. Each trail and track feels like a journey of self-discovery and accomplishment.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:5999/img/IMG_9452.JPG&#34; alt=&#34;IMG_9452&#34;&gt;&#xA;&lt;img src=&#34;//localhost:5999/img/IMG_9004.JPG&#34; alt=&#34;IMG_9004&#34;&gt;&#xA;&lt;img src=&#34;//localhost:5999/img/IMG_9244.jpeg&#34; alt=&#34;IMG_9244&#34;&gt;&#xA;&lt;img src=&#34;//localhost:5999/img/IMG_9557.jpeg&#34; alt=&#34;IMG_9557&#34;&gt;&#xA;&lt;img src=&#34;//localhost:5999/img/IMG_0349.JPG&#34; alt=&#34;IMG_0349&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;cooking&#34;&gt;Cooking&lt;/h2&gt;&#xA;&lt;p&gt;&lt;br&gt;Cooking and baking are my creative outlets, allowing me to experiment and create dishes that bring joy to those around me. There’s something incredibly fulfilling about crafting a meal from scratch and sharing it with friends and family. My goal is to perfect my skills and master both the art and science of the kitchen, one recipe at a time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>//localhost:3807/publications/</link>
+      <link>//localhost:5999/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/publications/</guid>
-      <description>&lt;h2 id=&#34;publications-english&#34;&gt;Publications (English)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Xiaoli Su, &lt;strong&gt;Bo Shao&lt;/strong&gt;, Zhe Yuan &amp;amp; Chenghu Yang. A Data-Driven Distributionally Robust Optimization Approach for Risk-Averse Newsvendor Problem with Demand Censoring. &lt;em&gt;Annals of Operations Research&lt;/em&gt;. (Under review).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bo Shao&lt;/strong&gt;, Xiaoli Su, Xin Li &amp;amp; Xingxuan Zhuo. Mixed-Frequency Data-Driven Forecasting Port Throughput: A Novel Attention-DeepAR-MIDAS Model. &lt;em&gt;International Journal of Shipping and Transport Logistics&lt;/em&gt;. (In press).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Xin Li, Yongshi Hu, Xiaoli Su &amp;amp; &lt;strong&gt;Bo Shao&lt;/strong&gt;. (2023). &lt;a href=&#34;https://doi.org/10.25103/jestr.163.10&#34;&gt;A Data-Driven Newsvendor Problem with Shifting Demand: A Deep Autoregressive Model with Attention Mechanism&lt;/a&gt;. &lt;em&gt;Journal of Engineering Science &amp;amp; Technology Review&lt;/em&gt;. 16(3), 74-83.&lt;/p&gt;</description>
+      <guid>//localhost:5999/publications/</guid>
+      <description>&lt;h2 id=&#34;publications-english&#34;&gt;Publications (English)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Xiaoli Su, &lt;strong&gt;Bo Shao&lt;/strong&gt;, Chenghu Yang &amp;amp; Xin Ma. A Data-Driven Distributionally Robust Optimization Approach for Risk-Averse Newsvendor Problem with Demand Censoring. &lt;em&gt;Annals of Operations Research&lt;/em&gt;. (Under review).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bo Shao&lt;/strong&gt;, Xiaoli Su, Xin Li &amp;amp; Xingxuan Zhuo. Mixed-Frequency Data-Driven Forecasting Port Throughput: A Novel Attention-DeepAR-MIDAS Model. &lt;em&gt;International Journal of Shipping and Transport Logistics&lt;/em&gt;. (In press).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Xin Li, Yongshi Hu, Xiaoli Su &amp;amp; &lt;strong&gt;Bo Shao&lt;/strong&gt;. (2023). &lt;a href=&#34;https://doi.org/10.25103/jestr.163.10&#34;&gt;A Data-Driven Newsvendor Problem with Shifting Demand: A Deep Autoregressive Model with Attention Mechanism&lt;/a&gt;. &lt;em&gt;Journal of Engineering Science &amp;amp; Technology Review&lt;/em&gt;. 16(3), 74-83.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

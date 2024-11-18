@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bo Shao</title>
-    <link>//localhost:3807/tags/</link>
+    <link>//localhost:5999/tags/</link>
     <description>Recent content in Tags on Bo Shao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:3807/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:5999/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conference</title>
-      <link>//localhost:3807/tags/conference/</link>
+      <link>//localhost:5999/tags/conference/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/tags/conference/</guid>
+      <guid>//localhost:5999/tags/conference/</guid>
       <description></description>
     </item>
     <item>
       <title>Public Speaking</title>
-      <link>//localhost:3807/tags/public-speaking/</link>
+      <link>//localhost:5999/tags/public-speaking/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/tags/public-speaking/</guid>
+      <guid>//localhost:5999/tags/public-speaking/</guid>
       <description></description>
     </item>
     <item>
       <title>New Journey</title>
-      <link>//localhost:3807/tags/new-journey/</link>
+      <link>//localhost:5999/tags/new-journey/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/tags/new-journey/</guid>
+      <guid>//localhost:5999/tags/new-journey/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>//localhost:3807/tags/travel/</link>
+      <link>//localhost:5999/tags/travel/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/tags/travel/</guid>
+      <guid>//localhost:5999/tags/travel/</guid>
       <description></description>
     </item>
   </channel>

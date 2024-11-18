@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bo Shao</title>
-    <link>//localhost:3807/post/</link>
+    <link>//localhost:5999/post/</link>
     <description>Recent content in Posts on Bo Shao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:3807/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:5999/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First International Conference Presentation at OMEA/MBAA 2024</title>
-      <link>//localhost:3807/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</link>
+      <link>//localhost:5999/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</guid>
+      <guid>//localhost:5999/post/2024/04/10/first-international-conference-presentation-at-omea/mbaa-2024/</guid>
       <description>&lt;p&gt;&lt;strong&gt;April 10, 2024&lt;/strong&gt; – Today, I had the incredible experience of presenting at the OMEA/MBAA 2024 conference in Chicago. This was my first time speaking at an international conference, and I was really nervous. Despite the nerves, I learned a lot and gained valuable insights from this opportunity.&lt;/p&gt;&#xA;&lt;p&gt;Presenting in front of an international audience was challenging but rewarding. I realize there’s still much room for improvement, and I need to keep pushing myself to grow and gain confidence in these settings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Embarking on a New Journey</title>
-      <link>//localhost:3807/post/2023/08/07/embarking-on-a-new-journey/</link>
+      <link>//localhost:5999/post/2023/08/07/embarking-on-a-new-journey/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:3807/post/2023/08/07/embarking-on-a-new-journey/</guid>
+      <guid>//localhost:5999/post/2023/08/07/embarking-on-a-new-journey/</guid>
       <description>&lt;p&gt;&lt;strong&gt;August 7, 2023&lt;/strong&gt; – Today, I set off for the United States, bidding farewell to my parents, friends, and everything familiar to embark on a new journey.&lt;/p&gt;&#xA;&lt;p&gt;This day is filled with a mix of emotions – a bittersweet moment of saying goodbye while feeling excited for what lies ahead. As I looked back at the faces of my loved ones, I felt both the warmth of their support and the weight of leaving them behind. Heading to the U.S. is not just a trip; it’s a step toward growth, exploration, and new experiences.&lt;/p&gt;</description>
     </item>
   </channel>
