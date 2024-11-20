@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DeepAR on Bo Shao</title>
-    <link>//localhost:3843/tags/deepar/</link>
+    <link>//localhost:4321/tags/deepar/</link>
     <description>Recent content in DeepAR on Bo Shao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:3843/tags/deepar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/tags/deepar/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Exploring DeepAR</title>
-      <link>//localhost:3843/post/2024/11/17/exploring-deepar/</link>
+      <title>Exploring DeepAR-Advancing Forecasting with Attention Mechanisms</title>
+      <link>//localhost:4321/post/2024/11/17/exploring-deepar-advancing-forecasting-with-attention-mechanisms/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3843/post/2024/11/17/exploring-deepar/</guid>
+      <guid>//localhost:4321/post/2024/11/17/exploring-deepar-advancing-forecasting-with-attention-mechanisms/</guid>
       <description>&lt;p&gt;&lt;strong&gt;November 17, 2024&lt;/strong&gt; – Today, I want to share some insights into one of the most exciting areas of my recent research: the DeepAR model with attention mechanisms. DeepAR is a state-of-the-art probabilistic forecasting model that has transformed how we approach time series forecasting problems, especially in high-dimensional and dynamic environments.&lt;/p&gt;&#xA;&lt;p&gt;In my research, I’ve been applying DeepAR to optimize demand forecasting and decision-making in supply chains. By incorporating an &lt;strong&gt;attention mechanism&lt;/strong&gt;, the model not only captures temporal patterns but also assigns weights to important features, enabling it to focus on the most relevant demand drivers. This improvement significantly enhances its forecasting accuracy compared to traditional methods.&lt;/p&gt;</description>
     </item>
   </channel>

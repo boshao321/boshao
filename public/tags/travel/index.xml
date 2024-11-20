@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Bo Shao</title>
-    <link>//localhost:3843/tags/travel/</link>
+    <link>//localhost:4321/tags/travel/</link>
     <description>Recent content in Travel on Bo Shao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:3843/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Embarking on a New Journey</title>
-      <link>//localhost:3843/post/2023/08/07/embarking-on-a-new-journey/</link>
+      <link>//localhost:4321/post/2023/08/07/embarking-on-a-new-journey/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:3843/post/2023/08/07/embarking-on-a-new-journey/</guid>
+      <guid>//localhost:4321/post/2023/08/07/embarking-on-a-new-journey/</guid>
       <description>&lt;p&gt;&lt;strong&gt;August 7, 2023&lt;/strong&gt; – Today, I set off for the United States, bidding farewell to my parents, friends, and everything familiar to embark on a new journey.&lt;/p&gt;&#xA;&lt;p&gt;This day is filled with a mix of emotions – a bittersweet moment of saying goodbye while feeling excited for what lies ahead. As I looked back at the faces of my loved ones, I felt both the warmth of their support and the weight of leaving them behind. Heading to the U.S. is not just a trip; it’s a step toward growth, exploration, and new experiences.&lt;/p&gt;</description>
     </item>
   </channel>

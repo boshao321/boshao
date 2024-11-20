@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Bo Shao</title>
-    <link>//localhost:3843/note/</link>
+    <link>//localhost:4321/note/</link>
     <description>Recent content in Notes on Bo Shao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:3843/note/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wonton</title>
-      <link>//localhost:3843/note/2024/11/09/wonton/</link>
+      <link>//localhost:4321/note/2024/11/09/wonton/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3843/note/2024/11/09/wonton/</guid>
+      <guid>//localhost:4321/note/2024/11/09/wonton/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Wontons (馄饨)&lt;/strong&gt; are a beloved Chinese dumpling, typically filled with seasoned pork or shrimp, wrapped in thin dough, and served in a light broth or with sauce. Here’s a simple recipe to make these comforting dumplings at home.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wonton Filling&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g ground pork (or ground chicken/shrimp)&lt;/li&gt;&#xA;&lt;li&gt;1 green onion, finely chopped&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;&#xA;&lt;li&gt;1/2 tablespoon oyster sauce&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon sesame oil&lt;/li&gt;&#xA;&lt;li&gt;1/4 teaspoon white pepper&lt;/li&gt;&#xA;&lt;li&gt;1 teaspoon grated ginger&lt;/li&gt;&#xA;&lt;li&gt;1 teaspoon cornstarch&lt;/li&gt;&#xA;&lt;li&gt;Salt to taste&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wonton Wrappers&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Black Pepper Beef Stir-Fry</title>
-      <link>//localhost:3843/note/2024/11/01/black-pepper-beef/</link>
+      <link>//localhost:4321/note/2024/11/01/black-pepper-beef/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3843/note/2024/11/01/black-pepper-beef/</guid>
+      <guid>//localhost:4321/note/2024/11/01/black-pepper-beef/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Black Pepper Beef Stir-Fry (黑椒牛柳)&lt;/strong&gt; is a classic Chinese stir-fry dish known for its bold black pepper flavor and tender beef. It’s quick to make, making it a perfect weeknight meal. Here’s how to prepare it at home.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Main Ingredients&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;300g beef sirloin or tenderloin, cut into thin strips&lt;/li&gt;&#xA;&lt;li&gt;1 bell pepper (red or green), sliced&lt;/li&gt;&#xA;&lt;li&gt;1 small onion, sliced&lt;/li&gt;&#xA;&lt;li&gt;1/2 carrot, julienned (optional)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Marinade&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon oyster sauce&lt;/li&gt;&#xA;&lt;li&gt;1 teaspoon cornstarch&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon sugar&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon cooking wine&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon black pepper (freshly ground for best flavor)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stir-Fry Sauce&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon oyster sauce&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon sugar&lt;/li&gt;&#xA;&lt;li&gt;1 teaspoon black pepper (adjust to taste)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Aromatics&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 cloves garlic, minced&lt;/li&gt;&#xA;&lt;li&gt;1 small piece ginger, minced&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Marinate the Beef&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tomato Braised Beef Brisket</title>
-      <link>//localhost:3843/note/2024/10/25/tomato-braised-beef-brisket/</link>
+      <link>//localhost:4321/note/2024/10/25/tomato-braised-beef-brisket/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3843/note/2024/10/25/tomato-braised-beef-brisket/</guid>
+      <guid>//localhost:4321/note/2024/10/25/tomato-braised-beef-brisket/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Tomato Braised Beef Brisket (番茄牛腩)&lt;/strong&gt; is a classic Chinese comfort dish, featuring tender beef brisket slowly cooked with tomatoes for a rich, savory flavor with a hint of sweetness. Here’s a simple recipe to make this delicious dish at home.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Main Ingredients&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;500g beef brisket, cut into chunks&lt;/li&gt;&#xA;&lt;li&gt;3 large tomatoes, diced&lt;/li&gt;&#xA;&lt;li&gt;1 potato, peeled and cut into chunks (optional)&lt;/li&gt;&#xA;&lt;li&gt;1 carrot, sliced&lt;/li&gt;&#xA;&lt;li&gt;1 onion, diced&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seasonings&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 tablespoon tomato paste&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon oyster sauce&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon cooking wine&lt;/li&gt;&#xA;&lt;li&gt;Salt and pepper to taste&lt;/li&gt;&#xA;&lt;li&gt;2-3 slices ginger&lt;/li&gt;&#xA;&lt;li&gt;2-3 cloves garlic, crushed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Aromatics&lt;/strong&gt;: chopped green onions for garnish&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Blanch the Beef&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mala Xiang Guo</title>
-      <link>//localhost:3843/note/2024/10/10/mala-xiang-guo/</link>
+      <link>//localhost:4321/note/2024/10/10/mala-xiang-guo/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:3843/note/2024/10/10/mala-xiang-guo/</guid>
+      <guid>//localhost:4321/note/2024/10/10/mala-xiang-guo/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Mala Xiang Guo (麻辣香锅)&lt;/strong&gt; is a popular Chinese dish known for its bold flavors, combining a variety of ingredients with spicy, numbing, and aromatic spices. Here’s a quick recipe for this flavorful dish, perfect for those who love a little heat!&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Protein&lt;/strong&gt;: 200g sliced beef, chicken, shrimp, or tofu (choose your favorite)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vegetables&lt;/strong&gt;: 1 cup napa cabbage, 1 cup spinach, 1/2 cup mushrooms, 1/2 cup broccoli, 1/2 cup lotus root slices (or other vegetables of choice)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seasonings&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2-3 tablespoons of Sichuan peppercorn oil or hot pot base&lt;/li&gt;&#xA;&lt;li&gt;2 tablespoons doubanjiang (spicy bean paste)&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon minced garlic&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon minced ginger&lt;/li&gt;&#xA;&lt;li&gt;2-3 dried red chili peppers (adjust for desired spice level)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Aromatics&lt;/strong&gt;: green onions and cilantro for garnish&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Optional toppings&lt;/strong&gt;: peanuts, sesame seeds, or fried garlic&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Prepare the Ingredients&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
   </channel>
