@@ -12,12 +12,15 @@ I was born in <a href="https://en.wikipedia.org/wiki/Wuwei,_Gansu">Wuwei</a>, a 
 
 ## Research Interests
 
-***I am actively seeking a PhD position for 2025 Fall. If you have any information, please contact me!***
+***I am actively seeking a PhD position for Fall 2025. If you have any opportunities or information, please feel free to contact me!***
+
+My research interests include:
 - Data-Driven Modeling and Analysis
 - Operations Research
 - Optimization
-- Production and Operations Systems
-- Supply Chain Management
+- Decision-Making under Uncertainty
+- Production and Operations Management
+- Complex Systems (Healthcare, Energy, Logistics, and Supply Chains)
 
 ## Contact Information
 
@@ -30,11 +33,12 @@ I was born in <a href="https://en.wikipedia.org/wiki/Wuwei,_Gansu">Wuwei</a>, a 
  Master of Science in Industrial & Systems Engineering <br>
  University of Wisconsin - Madison
 
-- Jul. 2021 – Aug. 2023<br>
- Research Assistant <br>
- Logistics Research Center of Fuzhou University
-
 - Sep. 2017 – Jun. 2021<br>
  Bachelor of Engineering in Logistics Engineering <br>
  Fuzhou University
 
+## Working Experience
+
+- Jul. 2021 – Aug. 2023<br>
+ Research Assistant (Full-Time) <br>
+ Logistics Research Center of Fuzhou University

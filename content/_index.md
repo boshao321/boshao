@@ -13,6 +13,6 @@ title: Home
   </div>
 </div>
 
-<p>I love outdoor hiking because being close to nature brings me a sense of inner peace. I also enjoy cooking, and there’s nothing quite like the satisfaction of tasting my own culinary creations. One of my favorite quotes is: <em>“Put your head down and fight, fight, fight! Never, ever, ever give up! Things will work out just fine.”</em></p>
+<p>I love outdoor hiking because being close to nature brings me a sense of inner peace. I also enjoy cooking, and there’s nothing quite like the satisfaction of tasting my own culinary creations.</p>
 
 <p>You can also visit the list page of a single section, e.g., <a href="/post/">posts</a>, or <a href="/note/">notes</a>.</p>
